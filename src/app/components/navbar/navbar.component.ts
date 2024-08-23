@@ -2,7 +2,6 @@ import { Component } from '@angular/core';
 import {MatDialog} from '@angular/material/dialog';
 import { AddTaskComponent } from '../../pages/add-task/add-task.component';
 
-``
 @Component({
   selector: 'app-navbar',
   templateUrl: './navbar.component.html',

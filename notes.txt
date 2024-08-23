@@ -1,0 +1,7 @@
+npx json-server taskdb.json
+
+npm i --g json-server
+
+ng g c /pages/add-task
+
+ng g s services/tasks
